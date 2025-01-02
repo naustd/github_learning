@@ -1,3 +1,5 @@
 red
 orange
-white
+whit
+purple
+pink
